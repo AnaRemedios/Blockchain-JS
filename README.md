@@ -11,7 +11,8 @@ Validação da blockchain: O sistema verifica se a cadeia de blocos é válida, 
 Requisitos
 Node.js (v14.0.0 ou superior)
 
-Contribuição
+Contribuição:
+
 Se você quiser contribuir com este projeto, siga os passos abaixo:
 
 Faça um fork do repositório.
