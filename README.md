@@ -10,3 +10,12 @@ Validação da blockchain: O sistema verifica se a cadeia de blocos é válida, 
 
 Requisitos
 Node.js (v14.0.0 ou superior)
+
+Contribuição:
+Se você quiser contribuir com este projeto, siga os passos abaixo:
+
+Faça um fork do repositório.
+Crie uma nova branch com as suas funcionalidades: git checkout -b minha-feature.
+Commit suas mudanças: git commit -m 'Adicionei uma nova funcionalidade'.
+Envie para a branch original: git push origin minha-feature.
+Abra um Pull Request.
